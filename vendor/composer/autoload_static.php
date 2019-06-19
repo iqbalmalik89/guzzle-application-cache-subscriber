@@ -18,7 +18,10 @@ class ComposerStaticInit0926633d9a8b7e604ca598ad61416648
         'p' => 
         array (
             'phpDocumentor\\Reflection\\' => 25,
-            'paslandau\\GuzzleApplicationCacheSubscriber\\' => 43,
+        ),
+        'i' => 
+        array (
+            'iqbalmalik89\\GuzzleApplicationCacheSubscriber\\' => 46,
         ),
         'W' => 
         array (
@@ -54,7 +57,7 @@ class ComposerStaticInit0926633d9a8b7e604ca598ad61416648
             1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
             2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
         ),
-        'paslandau\\GuzzleApplicationCacheSubscriber\\' => 
+        'iqbalmalik89\\GuzzleApplicationCacheSubscriber\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
