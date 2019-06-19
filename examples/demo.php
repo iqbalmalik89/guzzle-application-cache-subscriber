@@ -2,8 +2,8 @@
 
 use Doctrine\Common\Cache\ArrayCache;
 use GuzzleHttp\Client;
-use paslandau\GuzzleApplicationCacheSubscriber\ApplicationCacheSubscriber;
-use paslandau\GuzzleApplicationCacheSubscriber\CacheStorage;
+use iqbalmalik89\GuzzleApplicationCacheSubscriber\ApplicationCacheSubscriber;
+use iqbalmalik89\GuzzleApplicationCacheSubscriber\CacheStorage;
 
 require_once __DIR__ . '/demo-bootstrap.php';
 

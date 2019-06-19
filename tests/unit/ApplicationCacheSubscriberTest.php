@@ -6,8 +6,8 @@ use GuzzleHttp\Event\EndEvent;
 use GuzzleHttp\Message\Response;
 use GuzzleHttp\Stream\Stream;
 use GuzzleHttp\Subscriber\Mock;
-use paslandau\GuzzleApplicationCacheSubscriber\ApplicationCacheSubscriber;
-use paslandau\GuzzleApplicationCacheSubscriber\CacheStorage;
+use iqbalmalik89\GuzzleApplicationCacheSubscriber\ApplicationCacheSubscriber;
+use iqbalmalik89\GuzzleApplicationCacheSubscriber\CacheStorage;
 
 class ApplicationCacheSubscriberTest extends PHPUnit_Framework_TestCase {
 

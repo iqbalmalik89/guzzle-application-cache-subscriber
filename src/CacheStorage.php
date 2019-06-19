@@ -1,6 +1,6 @@
 <?php
 
-namespace paslandau\GuzzleApplicationCacheSubscriber;
+namespace iqbalmalik89\GuzzleApplicationCacheSubscriber;
 
 use Doctrine\Common\Cache\Cache;
 use GuzzleHttp\Message\MessageInterface;

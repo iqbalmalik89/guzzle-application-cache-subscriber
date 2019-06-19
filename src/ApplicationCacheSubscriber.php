@@ -1,5 +1,5 @@
 <?php
-namespace paslandau\GuzzleApplicationCacheSubscriber;
+namespace iqbalmalik89\GuzzleApplicationCacheSubscriber;
 
 use GuzzleHttp\Event\BeforeEvent;
 use GuzzleHttp\Event\EndEvent;
